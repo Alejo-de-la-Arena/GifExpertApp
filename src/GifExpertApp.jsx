@@ -3,8 +3,8 @@ import AddCategory from "./components/AddCategory";
 import GifGrid from "./components/GifGrid";
 
 const GifExpertApp = () => {
-
-    const [categories, setCategories] = useState(['Demon Slayer', 'Jujutsu Kaisen']);
+ 
+    const [categories, setCategories] = useState(['']);
 
     const onAddCategory = (newCategory) => {
 
