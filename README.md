@@ -1,8 +1,18 @@
-# React + Vite
+#📌 GifExpertApp
+###🚀 React project from the Udemy course "React: From Zero to Expert" by Fernando Herrera.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##🎯 About the Project
+### GifExpertApp is a React-based web application that allows users to search for GIFs from the Giphy API. Simply type a keyword, and the app will fetch and display related GIFs instantly.
 
-Currently, two official plugins are available:
+### This project was a great learning experience, helping me to:
+✅ Understand and apply React Hooks (useState, useEffect)
+✅ Create custom hooks (useFetchGifs) to handle API requests
+✅ Improve state management and component organization
+✅ Enhance my knowledge of asynchronous data fetching
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+🔹 React – Component-based UI
+🔹 JavaScript (ES6+) – Modern syntax & async/await
+🔹 CSS – Basic styling
+🔹 Giphy API – Fetching GIFs dynamically
+
