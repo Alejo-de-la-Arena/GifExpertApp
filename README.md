@@ -1,7 +1,7 @@
-#📌 GifExpertApp
-###🚀 React project from the Udemy course "React: From Zero to Expert" by Fernando Herrera.
+# GifExpertApp📌
+### React project from the Udemy course "React: From Zero to Expert" by Fernando Herrera🚀.
 
-##🎯 About the Project
+## About the Project🎯 
 ### GifExpertApp is a React-based web application that allows users to search for GIFs from the Giphy API. Simply type a keyword, and the app will fetch and display related GIFs instantly.
 
 ### This project was a great learning experience, helping me to:
@@ -10,7 +10,7 @@
 ✅ Improve state management and component organization
 ✅ Enhance my knowledge of asynchronous data fetching
 
-## 🛠️ Tech Stack
+## Tech Stack🛠️
 🔹 React – Component-based UI
 🔹 JavaScript (ES6+) – Modern syntax & async/await
 🔹 CSS – Basic styling
